@@ -1,5 +1,5 @@
 # PRODIGY_DS_04
-[DS_4.PNG](https://github.com/Finituko/PRODIGY_DS_04/blob/34123fc27787563f41083af7a012633cc80e0dfc/Ds_4.PNG)
+![DS_4.PNG](https://github.com/Finituko/PRODIGY_DS_04/blob/34123fc27787563f41083af7a012633cc80e0dfc/Ds_4.PNG)
 # Sentiment Analysis on Social Media Data
 
 ## Overview
